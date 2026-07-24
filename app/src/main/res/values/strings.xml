@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liana Accounting</string>
+    <string name="title">SMS Inbox</string>
+    <string name="permission_explanation">Liana Accounting reads your SMS inbox locally so financial messages can be reviewed on this device. Messages are not uploaded.</string>
+    <string name="permission_required">SMS access is required to display messages.</string>
+    <string name="permission_granted">SMS access granted. Showing the newest inbox messages.</string>
+    <string name="allow_sms_access">Allow SMS access</string>
+    <string name="refresh">Refresh</string>
+    <string name="loading">Reading messages…</string>
+    <string name="no_messages">No inbox messages found.</string>
+    <string name="unknown_sender">Unknown sender</string>
+    <string name="read_error">Could not read SMS: %1$s</string>
+    <plurals name="message_count">
+        <item quantity="one">%d message loaded</item>
+        <item quantity="other">%d messages loaded</item>
+    </plurals>
+</resources>
